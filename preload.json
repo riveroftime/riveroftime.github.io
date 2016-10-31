@@ -1,0 +1,6 @@
+[
+	{"path": "RiverOfTime.swf?id=com.clewcat.RiverOfTime&version=0.8.0", "cache": false, "main": true, "name": "Application", "propotion": 50},
+	{"path": "ending.swf", "cache": true, "name": "Animation", "propotion": 20},
+	{"path": "blackhole.swf", "cache": true, "name": "Animation", "propotion": 25},
+	{"path": "opening.swf", "cache": true, "name": "Animation", "propotion": 5}
+]

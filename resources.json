@@ -1,0 +1,222 @@
+[
+	{
+		"path": "ambience/boss.mp3",
+		"id": "boss",
+		"type": "ambience"
+	},
+	{
+		"path": "ambience/river.mp3",
+		"id": "river",
+		"type": "ambience"
+	},
+	{
+		"path": "ambience/space.mp3",
+		"id": "space",
+		"type": "ambience"
+	},
+	{
+		"path": "ambience/stream.mp3",
+		"id": "stream",
+		"type": "ambience"
+	},
+	{
+		"path": "ambience/wind.mp3",
+		"id": "wind",
+		"type": "ambience"
+	},
+	{
+		"path": "music/Ending.mp3",
+		"id": "Ending",
+		"type": "music"
+	},
+	{
+		"path": "music/Level1.mp3",
+		"id": "Level1",
+		"type": "music"
+	},
+	{
+		"path": "music/Level1_2.mp3",
+		"id": "Level1_2",
+		"type": "music"
+	},
+	{
+		"path": "music/Level2.mp3",
+		"id": "Level2",
+		"type": "music"
+	},
+	{
+		"path": "music/Level3.mp3",
+		"id": "Level3",
+		"type": "music"
+	},
+	{
+		"path": "music/Level4.mp3",
+		"id": "Level4",
+		"type": "music"
+	},
+	{
+		"path": "music/Opening.mp3",
+		"id": "Opening",
+		"type": "music"
+	},
+	{
+		"path": "sfx/aircraft_whoosh.mp3",
+		"id": "aircraft_whoosh",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/alarm.mp3",
+		"id": "alarm",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/arrow.mp3",
+		"id": "arrow",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/arrow_fast.mp3",
+		"id": "arrow_fast",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/blackhole.mp3",
+		"id": "blackhole",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/blink.mp3",
+		"id": "blink",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/boss_enter.mp3",
+		"id": "boss_enter",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/bullet.mp3",
+		"id": "bullet",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/explosion.mp3",
+		"id": "explosion",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/flying_plane.mp3",
+		"id": "flying_plane",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/hit_mine.mp3",
+		"id": "hit_mine",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/hit_rock.mp3",
+		"id": "hit_rock",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/invisible.mp3",
+		"id": "invisible",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/laser.mp3",
+		"id": "laser",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/missile.mp3",
+		"id": "missile",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/orb1.mp3",
+		"id": "orb1",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/orb2.mp3",
+		"id": "orb2",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/orb3.mp3",
+		"id": "orb3",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/orb4.mp3",
+		"id": "orb4",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/orb5.mp3",
+		"id": "orb5",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/orb6.mp3",
+		"id": "orb6",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/photon.mp3",
+		"id": "photon",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/plasma.mp3",
+		"id": "plasma",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/projectile.mp3",
+		"id": "projectile",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/shield.mp3",
+		"id": "shield",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/stone_moving.mp3",
+		"id": "stone_moving",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/tachyon.mp3",
+		"id": "tachyon",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/thunder.mp3",
+		"id": "thunder",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/upgrade1.mp3",
+		"id": "upgrade1",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/upgrade2.mp3",
+		"id": "upgrade2",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/water_splash.mp3",
+		"id": "water_splash",
+		"type": "sfx"
+	},
+	{
+		"path": "sfx/wood_pile.mp3",
+		"id": "wood_pile",
+		"type": "sfx"
+	}
+]
